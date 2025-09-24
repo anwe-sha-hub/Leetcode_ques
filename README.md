@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0136-single-number) |
 ## Hash Table
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
