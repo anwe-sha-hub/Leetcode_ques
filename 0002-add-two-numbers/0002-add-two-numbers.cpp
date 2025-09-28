@@ -1,0 +1,47 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+private:
+    void insertAtTail(ListNode* &head, ListNode* &tail, int val) {
+        ListNode* temp = new ListNode(val);
+        if (head == nullptr) {
+            head = temp;
+            tail = temp;
+            return;
+        }
+        tail->next = temp;
+        tail = temp;
+    }
+
+    ListNode* add(ListNode* first, ListNode* second) {
+        ListNode* ansHead = nullptr;
+        ListNode* ansTail = nullptr;
+        int carry = 0;
+        while (first != nullptr || second != nullptr || carry != 0) {
+            int val1 = (first != nullptr) ? first->val : 0;
+            int val2 = (second != nullptr) ? second->val : 0;
+            int sum = val1 + val2 + carry;
+            int digit = sum % 10;
+            insertAtTail(ansHead, ansTail, digit);
+            carry = sum / 10;
+
+            if (first != nullptr) first = first->next;
+            if (second != nullptr) second = second->next;
+        }
+        return ansHead;
+    }
+
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        // No need to reverse the lists because digits are already in reverse order
+        return add(l1, l2);
+    }
+};
