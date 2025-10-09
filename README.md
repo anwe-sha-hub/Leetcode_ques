@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 ## Divide and Conquer
