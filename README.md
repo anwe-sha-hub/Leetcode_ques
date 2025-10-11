@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0162-find-peak-element) |
+| [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -119,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
