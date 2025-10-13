@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
