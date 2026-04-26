@@ -12,19 +12,21 @@
 class BSTIterator {
 public:
 stack<TreeNode*>st;
-    void storenodes(TreeNode* root) {
-        while(root!=NULL){
-            st.push(root);
-            root=root->left;
-        }
+void storelead(TreeNode* root){
+    while(root!=NULL){
+        st.push(root);
+        root=root->left;
     }
-     BSTIterator(TreeNode* root){
-        storenodes(root);
-     }
+}
+    BSTIterator(TreeNode* root) {
+        storelead(root);
+    }
+    
     int next() {
         TreeNode* ans=st.top();
         st.pop();
-        storenodes(ans->right);
+        
+        storelead(ans->right);
         return ans->val;
     }
     
