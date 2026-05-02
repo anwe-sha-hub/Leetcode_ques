@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
