@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1678-goal-parser-interpretation) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
