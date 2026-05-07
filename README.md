@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
