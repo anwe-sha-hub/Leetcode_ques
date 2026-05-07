@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2128-reverse-prefix-of-word) |
+| [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
