@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
