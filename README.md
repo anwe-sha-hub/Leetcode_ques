@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
