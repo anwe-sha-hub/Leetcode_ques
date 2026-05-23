@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
