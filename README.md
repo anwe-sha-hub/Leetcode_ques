@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
