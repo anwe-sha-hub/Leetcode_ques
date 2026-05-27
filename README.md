@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2128-reverse-prefix-of-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
 |  |
 | ------- |
