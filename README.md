@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
