@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
