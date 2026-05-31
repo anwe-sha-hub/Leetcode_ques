@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
