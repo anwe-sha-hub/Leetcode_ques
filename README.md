@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0055-jump-game) |
