@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
 | ------- |
