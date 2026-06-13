@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -430,4 +434,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0074-search-a-2d-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
