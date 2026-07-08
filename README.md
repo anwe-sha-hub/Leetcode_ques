@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 ## Merge Sort
