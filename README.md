@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
