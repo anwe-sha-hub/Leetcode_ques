@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1922-count-good-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -506,4 +509,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
