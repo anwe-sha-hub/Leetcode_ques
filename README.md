@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0046-permutations) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0046-permutations) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0073-set-matrix-zeroes) |
@@ -524,4 +528,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
