@@ -536,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
