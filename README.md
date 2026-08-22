@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 ## Union-Find
 |  |
 | ------- |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
