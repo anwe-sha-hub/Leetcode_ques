@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2574-left-and-right-sum-differences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
