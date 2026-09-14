@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0076-minimum-window-substring) |
+| [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
