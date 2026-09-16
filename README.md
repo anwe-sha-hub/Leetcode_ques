@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1678-goal-parser-interpretation) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
