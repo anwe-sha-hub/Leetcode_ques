@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0709-to-lower-case) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
