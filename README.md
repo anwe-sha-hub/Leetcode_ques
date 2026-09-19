@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
