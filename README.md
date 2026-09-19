@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0260-single-number-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0349-intersection-of-two-arrays) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0904-fruit-into-baskets) |
