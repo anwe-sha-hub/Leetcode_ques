@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
