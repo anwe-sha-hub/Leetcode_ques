@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Iterator
 |  |
 | ------- |
