@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0409-longest-palindrome) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0547-number-of-provinces) |
