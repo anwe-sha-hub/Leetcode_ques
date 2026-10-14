@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1922-count-good-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
