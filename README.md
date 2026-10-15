@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -620,10 +622,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
