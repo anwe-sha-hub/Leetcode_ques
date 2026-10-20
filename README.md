@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1922-count-good-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
