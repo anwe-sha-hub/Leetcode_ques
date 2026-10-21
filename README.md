@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
