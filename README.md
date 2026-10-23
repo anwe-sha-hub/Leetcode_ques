@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
+| [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
