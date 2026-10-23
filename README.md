@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
