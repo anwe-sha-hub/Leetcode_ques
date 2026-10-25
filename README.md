@@ -749,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0802-find-eventual-safe-states) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
