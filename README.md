@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0897-increasing-order-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
