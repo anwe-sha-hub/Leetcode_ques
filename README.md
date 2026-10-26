@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
