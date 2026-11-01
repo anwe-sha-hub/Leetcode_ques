@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0493-reverse-pairs) |
