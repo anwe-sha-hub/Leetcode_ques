@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1859-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2128-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2409-count-days-spent-together) |
 | [2785-sort-vowels-in-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2785-sort-vowels-in-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
