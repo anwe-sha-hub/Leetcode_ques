@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1922-count-good-numbers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
