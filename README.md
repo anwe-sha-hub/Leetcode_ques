@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
