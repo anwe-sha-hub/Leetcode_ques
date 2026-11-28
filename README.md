@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1552-magnetic-force-between-two-balls) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -670,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -753,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Topological Sort
 |  |
@@ -785,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/0014-longest-common-prefix) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/anwe-sha-hub/Leetcode_ques/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
